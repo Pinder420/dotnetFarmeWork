@@ -1,0 +1,47 @@
+https://motor-frenzy.signitydemo.in/
+1.Git commands to merge code in master
+git status
+git add -A
+git commit -m "extend up to 4 levels"
+git push origin feat-change-category
+git checkout sprint-5
+git pull origin sprint-5
+git merge feat-change-category
+git push origin sprint-5
+git checkout feat-change-category
+git pull origin sprint-5
+
+
+2.Git commands to merge code in master
+git status
+git add -A
+git commit -m "Add report chat"
+git push origin sprint-2
+git checkout master
+git pull origin master
+git merge sprint-2
+git push origin master
+git checkout sprint-2
+git pull origin master
+
+
+
+2.Create New Brnach
+git checkout -b [name_of_your_new_branch]
+git checkout -b WWV_Dashboard
+
+
+3.Chek Build
+ng build @mydocma/report  
+
+4.Movies
+https://dutafilm.store/
+
+
+manage-instructions
+[innerHTML]="theHtmlString"
+
+5.Revert back locak changes
+
+git checkout .
+
